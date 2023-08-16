@@ -1,5 +1,5 @@
 # Profile Card UI Design
-## [Watch it on youtube](https://youtu.be/M_eF5oUzilg)
+## [Watch it on youtube](https://an0nname.github.io/profile-card-ui-design/)
 ### Profile Card UI Design
 
 - Profile Card UI Design Using HTML CSS & JavaScript
