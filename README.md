@@ -1,4 +1,4 @@
-<a href="https://an0nname.github.io/profile-card-ui-design/"><h3>click here</h3></a>
+<a href="https://an0nname.github.io/profile-card-ui-design/">click here</a>
 # Profile Card UI Design
 ## [Watch it on youtube](https://an0nname.github.io/profile-card-ui-design/)
 ### Profile Card UI Design
